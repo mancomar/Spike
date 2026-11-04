@@ -8,6 +8,7 @@ de modelos de robot para la FLL.
 [Canal Next Level](https://www.youtube.com/@nextlevelteacher/shorts)  
 [Robotics Rules](https://www.youtube.com/@RoboticsRules-DL)  
 [Presentación Canva FLL año anterior](https://canva.link/u8t7wrbx5f8w0pw)  
+[Descarga Studio 2.0](https://www.bricklink.com/v3/studio/download.page)  
 ### Cosas a tener en cuenta.  
 Los tableros no son elementos diseñados para la fiabilidad de movimientos o uso de sensores.  
 En la competición influye alumbrado, radiación electromagnética y construcción de tablero.  
