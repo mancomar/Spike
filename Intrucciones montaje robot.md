@@ -5,6 +5,10 @@ de modelos de robot para la FLL.
 [Listado de piezas muy útiles](https://github.com/mancomar/Spike/blob/main/piezas.io)  
 [Listado de piezas muy útiles](https://github.com/mancomar/Spike/blob/main/piezas.io)  
 [Canal1 de Youtube](https://www.youtube.com/@Giraffes3388/shorts)  
+[Canal Next Level](https://www.youtube.com/@nextlevelteacher/shorts)  
+[Robotics Rules](https://www.youtube.com/@RoboticsRules-DL)  
+
+
 
 
 
