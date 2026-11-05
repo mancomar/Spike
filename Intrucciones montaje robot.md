@@ -16,6 +16,14 @@ No puede caer toda la responsabilidad en los del tablero.
 Los niños siempre tiene que repasar los encajes del robot, selección de misiones y comprobar sensores antes del comienzo de la competición. Reserva de mesa de entreno.  
 Siempre hay que comprobar que las ruedas estén límpias.
 Si hay un cambio en la programación a última hora tiene que ser algo muy evidente.  
+Estrategia, agrupar misiones.  
+Antes de pasar a la siguiente probar que somos capaces de repetirla un número determinado de veces.  
+Usar guías de colocación, aprovecharse de las paredes para alinearse o trayectorias rectilíneas.
+Mover los motores antes de salir.  
+Ensayos reales con tomas de tiempos. microFLL.  
+Empezar las misiones lento e ir incrementando al mejorar la fiabilidad.  
+Ensayar la colocación, es donde más tiempo se pierde.  
+
 ### Los mandamientos
 1. Tenemos que comprender que gran parte de la fiabilidad del robot viene dada en base a su **diseño estructural**, siempre y cuando queramos realizar misiones con cierta complejidad.  
     1. Como este colocado el núcleo. Ruedas cerca del centro de gravedad para mejorar los giros.  
