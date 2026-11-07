@@ -1,6 +1,7 @@
 ## Robot Spike
 En este apartado añadiré manuales y consejos relacionados con la construcción  
 de modelos de robot para la FLL.  
+[Manejar Studio2.0](https://youtu.be/Ws2UA_enuD8)  
 [Instrucciones de montaje](https://github.com/mancomar/Spike/blob/main/ctrlT-Spike3_2027_%20v2.io)  
 [Listado de piezas muy útiles](https://github.com/mancomar/Spike/blob/main/piezas.io)  
  
