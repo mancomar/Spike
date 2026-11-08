@@ -1,15 +1,20 @@
 ## Robot Spike
 En este apartado añadiré manuales y consejos relacionados con la construcción  
-de modelos de robot para la FLL.  
-[Manejar Studio2.0](https://youtu.be/Ws2UA_enuD8)  
-[Instrucciones de montaje](https://github.com/mancomar/Spike/blob/main/ctrlT-Spike3_2027_%20v2.io)  
+de modelos de robot para la FLL.
+### Indicaciones Studio2.0
+[Descarga Studio 2.0](https://www.bricklink.com/v3/studio/download.page)  
+[Vídeo de introducción al manejo de Studio2.0](https://youtu.be/Ws2UA_enuD8)  
+
+### Modelos de robot, acoples y palancas
+[Instrucciones de montaje](https://github.com/mancomar/Spike/blob/main/ctrlT-Spike3_2027_%20v2.io) 
+
 [Listado de piezas muy útiles](https://github.com/mancomar/Spike/blob/main/piezas.io)  
  
 [Canal1 de Youtube](https://www.youtube.com/@Giraffes3388/shorts)  
 [Canal Next Level](https://www.youtube.com/@nextlevelteacher/shorts)  
 [Robotics Rules](https://www.youtube.com/@RoboticsRules-DL)  
 [Presentación Canva FLL año anterior](https://canva.link/u8t7wrbx5f8w0pw)  
-[Descarga Studio 2.0](https://www.bricklink.com/v3/studio/download.page)  
+
 ### Cosas a tener en cuenta.  
 Los tableros no son elementos diseñados para la fiabilidad de movimientos o uso de sensores.  
 En la competición influye alumbrado, radiación electromagnética y construcción de tablero.  
