@@ -7,7 +7,8 @@ de modelos de robot para la FLL.
 
 ### Modelos de robot, acoples y palancas
 [Instrucciones de montaje](https://github.com/mancomar/Spike/blob/main/ctrlT-Spike3_2027_%20v2.io) 
-
+[Modelo sencillo de palanca](https://github.com/mancomar/Spike/blob/main/palanca_2.io)
+[Modelo de cremallera vertical]()
 [Listado de piezas muy útiles](https://github.com/mancomar/Spike/blob/main/piezas.io)  
  
 [Canal1 de Youtube](https://www.youtube.com/@Giraffes3388/shorts)  
