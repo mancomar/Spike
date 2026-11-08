@@ -6,7 +6,7 @@ de modelos de robot para la FLL.
 [Vídeo de introducción al manejo de Studio2.0](https://youtu.be/Ws2UA_enuD8)  
 
 ### Modelos de robot, acoples y palancas
-[Instrucciones de montaje](https://github.com/mancomar/Spike/blob/main/ctrlT-Spike3_2027_%20v2.io) 
+[Instrucciones de montaje](https://github.com/mancomar/Spike/blob/main/ctrlTSpike3_2027_%20v2.io) 
 [Modelo sencillo de palanca](https://github.com/mancomar/Spike/blob/main/palanca_2.io)
 [Modelo de cremallera vertical](https://github.com/mancomar/Spike/blob/main/Cremallera.io)
 [Listado de piezas muy útiles](https://github.com/mancomar/Spike/blob/main/piezas.io)  
