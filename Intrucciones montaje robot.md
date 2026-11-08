@@ -82,7 +82,7 @@ Cremalleras
 
 ### **Ruedas y apoyos**  
 
-Tenemos que usar las ruedas de 54mm, más grandes tienen mucho error.  
+Un consejo es usar ruedas de 54 mm,las ruedas de mayor tamaño tienen menos precisión en los desplazamientos.  
 
 Los apoyos que tengan giro libre, para minimizar el rozamiento.  
        
